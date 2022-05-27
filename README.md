@@ -46,7 +46,7 @@ A list of the different resources are included in the table below.
 
 ## Version tracking
 
-As different versions of the resources are disseminated and archived (through Zenodo, bioRxiv, etc.), this document tracks which versions of each resource are linked together.
+As different versions of the resources are disseminated and archived (through Zenodo, bioRxiv, etc.), we track below how different versions of each resource are linked together.
 
 ### 2022-05-27
 <table>
