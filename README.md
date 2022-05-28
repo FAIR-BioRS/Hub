@@ -1,7 +1,7 @@
 # FAIR Biomedical Research Software (FAIR-BioRS) Hub
 
 ## About
-This repository aggregates all the resources related to the FAIR-BioRS guidelines. 
+This repository aggregates all the resources related to the FAIR-BioRS guidelines. We refer to the manuscript listed below for more details about the FAIR-BioRS guidelines
 
 ## Overview of the resources
 A list of the different resources are included in the table below.
