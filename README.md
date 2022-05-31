@@ -23,7 +23,7 @@ A list of the different resources are included in the table below.
   <tr>
     <td> FAIR BioRS manuscript </td>
     <td> https://doi.org/10.1101/2022.04.18.488694 </td>
-    <td> Manuscript detailing how the FAIR-BioRS guidelines were derived </td>
+    <td> Manuscript detailing how the FAIR-BioRS guidelines were established </td>
   </tr>
   <tr>
     <td> FAIR BioRS manuscript data </td>
