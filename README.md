@@ -61,7 +61,7 @@ As different versions of the resources are disseminated and archived (through Ze
   <tr>
     <td> FAIR BioRS guidelines </td>
     <td> v1.0.0 </td>
-    <td> https://github.com/fairdataihub/FAIR-BioRS-guidelines </td>
+    <td> https://doi.org/10.5281/zenodo.6604539</td>
   </tr>
   <tr>
     <td> FAIR BioRS manuscript </td>
