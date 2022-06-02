@@ -48,7 +48,46 @@ A list of the different resources are included in the table below.
 
 As different versions of the resources are disseminated and archived (through Zenodo, bioRxiv, etc.), we track below how different versions of each resource are linked together.
 
-### 2022-05-27
+### Added on 2022-06-02
+<table>
+<thead>
+  <tr>
+    <th> Name</th>
+    <th> Version </th>
+    <th> Link </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> FAIR BioRS guidelines </td>
+    <td> v1.0.1 </td>
+    <td> https://doi.org/10.5281/zenodo.6609011 </td>
+  </tr>
+  <tr>
+    <td> FAIR BioRS manuscript </td>
+    <td> v2 </td>
+    <td> Upcoming </td>
+  </tr>
+  <tr>
+    <td> FAIR BioRS manuscript data </td>
+    <td> v2.0.0 </td>
+    <td>  https://doi.org/10.5281/zenodo.6604793 </td>
+  </tr>
+  <tr>
+    <td> FAIR BioRS manuscript code </td>
+    <td> v2.0.0 </td>
+    <td> https://doi.org/10.5281/zenodo.6607772 </td>
+  </tr>
+  <tr>
+    <td> FAIRshare </td>
+    <td> v1.4.0 </td>
+    <td> Upcoming </td>
+  </tr>
+</tbody>
+</table>
+
+
+### Added on 2022-05-27
 <table>
 <thead>
   <tr>
