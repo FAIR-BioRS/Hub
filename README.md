@@ -81,7 +81,7 @@ As different versions of the resources are disseminated and archived (through Ze
   <tr>
     <td> FAIRshare </td>
     <td> v1.4.0 </td>
-    <td> Upcoming </td>
+    <td> https://doi.org/10.5281/zenodo.6612672 </td>
   </tr>
 </tbody>
 </table>
