@@ -66,7 +66,7 @@ As different versions of the resources are disseminated and archived (through Ze
   <tr>
     <td> FAIR BioRS manuscript </td>
     <td> v2 </td>
-    <td> Upcoming </td>
+    <td> https://www.biorxiv.org/content/10.1101/2022.04.18.488694v2 </td>
   </tr>
   <tr>
     <td> FAIR BioRS manuscript data </td>
