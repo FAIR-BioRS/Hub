@@ -17,7 +17,7 @@ A list of the different resources are included in the table below.
 <tbody>
   <tr>
     <td> FAIR BioRS guidelines </td>
-    <td> https://github.com/fairdataihub/FAIR-BioRS-guidelines </td>
+    <td> https://github.com/FAIR-BioRS/Guidelines </td>
     <td> Repository were the different version of the guidelines are maintained </td>
   </tr>
   <tr>
