@@ -127,4 +127,4 @@ As different versions of the resources are disseminated and archived (through Ze
 
 
 ## Feedback and contribution
-Use the [GitHub issues](https://github.com/fairdataihub/FAIR-BioRS-Hub/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
+Use the [GitHub issues](https://github.com/FAIR-BioRS/Hub/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
