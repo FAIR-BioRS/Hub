@@ -143,7 +143,7 @@ As different versions of the resources are disseminated and archived (through Ze
   <tr>
     <td> FAIR BioRS preprint manuscript </td>
     <td> v1 </td>
-    <td> https://doi.org/10.1101/2022.04.18.488694 </td>
+    <td> https://www.biorxiv.org/content/10.1101/2022.04.18.488694v1 </td>
   </tr>
   <tr>
     <td> FAIR BioRS manuscript data </td>
