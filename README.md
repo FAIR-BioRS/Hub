@@ -21,7 +21,7 @@ A list of the different resources are included in the table below.
     <td> Repository were the different version of the guidelines are maintained </td>
   </tr>
   <tr>
-    <td> FAIR BioRS manuscript </td>
+    <td> FAIR BioRS preprint manuscript </td>
     <td> https://doi.org/10.1101/2022.04.18.488694 </td>
     <td> Manuscript detailing how the FAIR-BioRS guidelines were established </td>
   </tr>
@@ -46,7 +46,45 @@ A list of the different resources are included in the table below.
 
 ## Version tracking
 
-As different versions of the resources are disseminated and archived (through Zenodo, bioRxiv, etc.), we track below how different versions of each resource are linked together.
+As different versions of the resources are disseminated and archived (through Zenodo, bioRxiv, etc.), we track below they are linked together. Versions of the resources that relate to each other are put in the same table. 
+
+### Added on 2023-07-06
+<table>
+<thead>
+  <tr>
+    <th> Name</th>
+    <th> Version </th>
+    <th> Link </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> FAIR BioRS guidelines </td>
+    <td> v2.0.0 </td>
+    <td> https://doi.org/10.5281/zenodo.8115012 </td>
+  </tr>
+  <tr>
+    <td> FAIR BioRS preprint manuscript </td>
+    <td> v3 </td>
+    <td> https://www.biorxiv.org/content/10.1101/2022.04.18.488694v3 </td>
+  </tr>
+  <tr>
+    <td> FAIR BioRS manuscript data </td>
+    <td> v3.0.0 </td>
+    <td>  https://doi.org/10.5281/zenodo.8112100 </td>
+  </tr>
+  <tr>
+    <td> FAIR BioRS manuscript code </td>
+    <td> v3.0.0 </td>
+    <td> https://doi.org/10.5281/zenodo.8112631 </td>
+  </tr>
+  <tr>
+    <td> FAIRshare </td>
+    <td> v2.1.0 </td>
+    <td> https://doi.org/10.5281/zenodo.8112716 </td>
+  </tr>
+</tbody>
+</table>
 
 ### Added on 2022-06-02
 <table>
@@ -64,7 +102,7 @@ As different versions of the resources are disseminated and archived (through Ze
     <td> https://doi.org/10.5281/zenodo.6609011 </td>
   </tr>
   <tr>
-    <td> FAIR BioRS manuscript </td>
+    <td> FAIR BioRS preprint manuscript </td>
     <td> v2 </td>
     <td> https://www.biorxiv.org/content/10.1101/2022.04.18.488694v2 </td>
   </tr>
@@ -103,7 +141,7 @@ As different versions of the resources are disseminated and archived (through Ze
     <td> https://doi.org/10.5281/zenodo.6604539</td>
   </tr>
   <tr>
-    <td> FAIR BioRS manuscript </td>
+    <td> FAIR BioRS preprint manuscript </td>
     <td> v1 </td>
     <td> https://doi.org/10.1101/2022.04.18.488694 </td>
   </tr>
